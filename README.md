@@ -43,7 +43,7 @@ The AI understands and builds upon your exact input format:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions.git
-   cd How-to-Log-Food
+   cd AI-Powered-Real-time-Dish-Suggestions
    ```
 
 2. **Install dependencies**:
@@ -95,7 +95,7 @@ Output:
 ## 🏗️ Project Structure
 
 ```
-How-to-Log-Food/
+AI-Powered-Real-time-Dish-Suggestions/
 ├── .env                 # Environment variables (create this)
 ├── requirements.txt     # Python dependencies
 ├── app.py              # Flask backend with Azure OpenAI
