@@ -13,5 +13,5 @@ python-dotenv==1.0.1
 # Additional utilities
 Werkzeug==3.0.1
 
-# Production WSGI server for deployment
+# Production WSGI server for deployment (required for Render)
 gunicorn==21.2.0 
