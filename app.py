@@ -231,5 +231,6 @@ if __name__ == '__main__':
     print(f"🧠 Using Azure OpenAI GPT 4.1 Nano model")
     print(f"🐍 Framework: Flask (Python)")
     
-    # Run the Flask development server
-    app.run(host='0.0.0.0', port=port, debug=True) 
+    # Run with debug=False for production deployment
+    # When running on Render, gunicorn will handle this instead
+    app.run(host='0.0.0.0', port=port, debug=False) 

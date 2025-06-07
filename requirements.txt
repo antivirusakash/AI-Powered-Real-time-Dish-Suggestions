@@ -11,4 +11,7 @@ openai==0.28.1
 python-dotenv==1.0.1
 
 # Additional utilities
-Werkzeug==3.0.1 
+Werkzeug==3.0.1
+
+# Production WSGI server for deployment
+gunicorn==21.2.0 
