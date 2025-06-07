@@ -1,6 +1,6 @@
-# 🤖 AI Powered Real-time Dish Suggestions
+# 🤖 How to Log Food?
 
-> **AI Powered Real-time dish suggestions with portion sizes for accurate calorie tracking**
+> **How to Log Food? - AI-powered dish suggestions with portion sizes for accurate calorie tracking**
 
 An intelligent web application that provides real-time, format-aware food suggestions powered by Azure OpenAI GPT 4.1 Nano. Simply type how you want to log your food, and the AI builds upon your exact format to provide 5 detailed suggestions with accurate portion sizes.
 
@@ -8,7 +8,7 @@ An intelligent web application that provides real-time, format-aware food sugges
 
 ![Demo](demo-video.gif)
 
-![AI Powered Real-time Dish Suggestions Demo](https://img.shields.io/badge/Azure-OpenAI%20GPT%204.1%20Nano-blue?style=for-the-badge&logo=microsoft-azure)
+![How to Log Food? Demo](https://img.shields.io/badge/Azure-OpenAI%20GPT%204.1%20Nano-blue?style=for-the-badge&logo=microsoft-azure)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -43,7 +43,7 @@ The AI understands and builds upon your exact input format:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions.git
-   cd AI-Powered-Real-time-Dish-Suggestions
+   cd How-to-Log-Food
    ```
 
 2. **Install dependencies**:
@@ -95,7 +95,7 @@ Output:
 ## 🏗️ Project Structure
 
 ```
-AI-Powered-Real-time-Dish-Suggestions/
+How-to-Log-Food/
 ├── .env                 # Environment variables (create this)
 ├── requirements.txt     # Python dependencies
 ├── app.py              # Flask backend with Azure OpenAI

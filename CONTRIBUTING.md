@@ -1,6 +1,6 @@
-# Contributing to AI Powered Real-time Dish Suggestions
+# Contributing to How to Log Food?
 
-First off, thank you for considering contributing to AI Powered Real-time Dish Suggestions! 🎉
+First off, thank you for considering contributing to How to Log Food?! 🎉
 
 The following is a set of guidelines for contributing to this project. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
@@ -19,7 +19,6 @@ Before creating bug reports, please check the existing issues as you might find 
 - **Provide specific examples to demonstrate the steps**
 - **Describe the behavior you observed and what behavior you expected**
 - **Include screenshots if possible**
-- **Include your environment details** (OS, Node.js version, browser)
 
 ### 💡 Suggesting Enhancements
 
@@ -207,4 +206,4 @@ Contributors will be recognized in:
 - Release notes for significant contributions
 - GitHub's contributor graph
 
-Thank you for helping make AI Powered Real-time Dish Suggestions better! 🚀 
+Thank you for helping make How to Log Food? better! 🚀 

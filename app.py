@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
-AI Powered Real-time Dish Suggestions - Python Flask Backend
-Converted from Node.js Express server
+How to Log Food? - Python Flask Backend
 
-AI Powered Real-time dish suggestions with portion sizes for accurate calorie tracking.
+How to Log Food? - AI-powered dish suggestions with portion sizes for accurate calorie tracking.
 Uses Azure OpenAI GPT 4.1 Nano for intelligent, format-aware food suggestions.
 """
 

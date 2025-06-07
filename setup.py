@@ -1,6 +1,6 @@
 """
-Setup configuration for AI Powered Real-time Dish Suggestions
-AI Powered Real-time dish suggestions with portion sizes for accurate calorie tracking
+Setup configuration for How to Log Food?
+How to Log Food? - AI-powered dish suggestions with portion sizes for accurate calorie tracking
 """
 
 from setuptools import setup, find_packages
@@ -12,11 +12,11 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = [line.strip() for line in fh if line.strip() and not line.startswith("#")]
 
 setup(
-    name="ai-powered-dish-suggestions",
+    name="how-to-log-food",
     version="1.0.0",
     author="Your Name",
     author_email="your.email@example.com",
-    description="AI Powered Real-time dish suggestions with portion sizes for accurate calorie tracking",
+    description="How to Log Food? - AI-powered dish suggestions with portion sizes for accurate calorie tracking",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions",
@@ -55,7 +55,7 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "ai-powered-dish-suggestions=app:app",
+            "how-to-log-food=app:app",
         ],
     },
     keywords=[

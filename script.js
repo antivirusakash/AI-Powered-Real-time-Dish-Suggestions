@@ -337,5 +337,5 @@ style.textContent = `
 document.head.appendChild(style);
 
 // Log initialization
-console.log('🚀 AI Powered Real-time Dish Suggestions initialized');
+console.log('🚀 How to Log Food? initialized');
 console.log('💡 Start typing to see detailed dish suggestions with portion sizes!'); 
