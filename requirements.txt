@@ -1,0 +1,14 @@
+# Flask web framework (equivalent to Express.js)
+Flask==3.0.0
+
+# CORS support for Flask (equivalent to cors package)
+Flask-CORS==4.0.0
+
+# OpenAI Python SDK for Azure OpenAI (equivalent to openai npm package)
+openai==0.28.1
+
+# Environment variable management (equivalent to dotenv)
+python-dotenv==1.0.1
+
+# Additional utilities
+Werkzeug==3.0.1 

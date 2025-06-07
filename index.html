@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🤖 AI Powered Real-time Dish Suggestions | Real-time dish suggestions with portion sizes</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Meta tags for better SEO and social sharing -->
+    <meta name="description" content="AI Powered Real-time dish suggestions with portion sizes for accurate calorie tracking. Type exactly how you want to log your food and get 5 format-aware suggestions instantly.">
+    <meta name="keywords" content="calorie tracking, food logging, portion sizes, AI, nutrition, diet tracking, azure openai, real-time suggestions">
+</head>
+<body>
+    <!-- Main container for the application -->
+    <div class="container">
+        <!-- Header section with title and instructions -->
+        <header>
+            <h1>📊 What did you eat?</h1>
+            <p class="subtitle">Type exactly how you want to log your food - the AI will build upon your format!</p>
+            <p class="example">Try typing: <span class="example-text">"150g chicken breast"</span>, <span class="example-text">"2 slices pizza"</span>, or <span class="example-text">"1 cup rice"</span></p>
+        </header>
+
+        <!-- Input section with the main search functionality -->
+        <div class="input-container">
+            <!-- Main input field where user types -->
+            <input 
+                type="text" 
+                id="dish-input" 
+                placeholder="Type exactly how you want to log it (e.g., 150g chicken breast, 2 slices pizza, 1 cup rice)..." 
+                autocomplete="off"
+                autocapitalize="off"
+                spellcheck="false"
+            >
+            
+            <!-- Loading indicator (hidden by default) -->
+            <div id="loading-indicator" class="loading-indicator">
+                <div class="spinner"></div>
+            </div>
+            
+            <!-- Suggestions dropdown box (hidden by default) -->
+            <div id="suggestions-box" class="suggestions-box"></div>
+        </div>
+
+        <!-- Footer with helpful information -->
+        <footer>
+            <p class="info">💡 Powered by Azure OpenAI GPT 4.1 Nano | Real-time suggestions with portion sizes for accurate calorie tracking</p>
+        </footer>
+    </div>
+
+    <!-- Include our JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html> 
