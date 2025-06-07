@@ -42,8 +42,8 @@ The AI understands and builds upon your exact input format:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ai-powered-dish-suggestions.git
-   cd ai-powered-dish-suggestions
+   git clone https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions.git
+   cd AI-Powered-Real-time-Dish-Suggestions
    ```
 
 2. **Install dependencies**:
@@ -95,7 +95,7 @@ Output:
 ## 🏗️ Project Structure
 
 ```
-ai-powered-dish-suggestions/
+AI-Powered-Real-time-Dish-Suggestions/
 ├── .env                 # Environment variables (create this)
 ├── requirements.txt     # Python dependencies
 ├── app.py              # Flask backend with Azure OpenAI
@@ -137,7 +137,7 @@ ai-powered-dish-suggestions/
 ### Common Issues
 
 1. **"Failed to fetch suggestions"**
-   - Ensure server is running (`npm start`)
+   - Ensure server is running (`python3 app.py`)
    - Check your `.env` file has correct Azure OpenAI credentials
    - Verify internet connection
 
@@ -147,7 +147,7 @@ ai-powered-dish-suggestions/
    - Ensure you have sufficient quota
 
 3. **Dependencies not found**
-   - Run `npm install` to install all required packages
+   - Run `pip3 install -r requirements.txt` to install all required packages
    - Check that you're in the correct directory
 
 ### Debug Tips
@@ -172,20 +172,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **Azure OpenAI** for providing the GPT 4.1 Nano model
-- **Express.js** community for the excellent web framework
+- **Flask** community for the excellent web framework
 - All contributors who help improve this project
 
 ## 📧 Support
 
 If you have any questions or need help, please:
-- Open an [issue](https://github.com/yourusername/ai-powered-dish-suggestions/issues)
-- Check existing [discussions](https://github.com/yourusername/ai-powered-dish-suggestions/discussions)
+- Open an [issue](https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions/issues)
+- Check existing [discussions](https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions/discussions)
 
 ---
 
 **Made with ❤️ for better nutrition tracking**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/ai-powered-dish-suggestions)
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourusername/ai-powered-dish-suggestions)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions)
 
 *Star ⭐ this repository if you found it helpful!* 

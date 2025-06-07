@@ -53,8 +53,8 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 1. **Clone your fork**:
    ```bash
-   git clone https://github.com/your-username/ai-powered-dish-suggestions.git
-   cd ai-powered-dish-suggestions
+   git clone https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions.git
+   cd AI-Powered-Real-time-Dish-Suggestions
    ```
 
 2. **Install dependencies**:
@@ -134,7 +134,7 @@ Fixes #123
 ## Project Structure
 
 ```
-ai-powered-dish-suggestions/
+AI-Powered-Real-time-Dish-Suggestions/
 ├── app.py              # Flask backend with Azure OpenAI
 ├── index.html          # Main frontend HTML
 ├── style.css           # Responsive CSS styling

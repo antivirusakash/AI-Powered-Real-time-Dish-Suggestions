@@ -19,11 +19,11 @@ setup(
     description="AI Powered Real-time dish suggestions with portion sizes for accurate calorie tracking",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ai-powered-dish-suggestions",
+    url="https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions",
     project_urls={
-        "Bug Tracker": "https://github.com/yourusername/ai-powered-dish-suggestions/issues",
-        "Documentation": "https://github.com/yourusername/ai-powered-dish-suggestions#readme",
-        "Source": "https://github.com/yourusername/ai-powered-dish-suggestions",
+        "Bug Tracker": "https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions/issues",
+        "Documentation": "https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions#readme",
+        "Source": "https://github.com/antivirusakash/AI-Powered-Real-time-Dish-Suggestions",
     },
     classifiers=[
         "Development Status :: 5 - Production/Stable",
