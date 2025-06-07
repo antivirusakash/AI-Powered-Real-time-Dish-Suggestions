@@ -4,9 +4,9 @@
 
 An intelligent web application that provides real-time, format-aware food suggestions powered by Azure OpenAI GPT 4.1 Nano. Simply type how you want to log your food, and the AI builds upon your exact format to provide 5 detailed suggestions with accurate portion sizes.
 
-## 🎬 Demo Video
+## 🎬 Demo
 
-![Demo Video](demo-video.mp4)
+![Demo](demo-video.gif)
 
 ![AI Powered Real-time Dish Suggestions Demo](https://img.shields.io/badge/Azure-OpenAI%20GPT%204.1%20Nano-blue?style=for-the-badge&logo=microsoft-azure)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
